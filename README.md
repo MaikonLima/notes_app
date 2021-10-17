@@ -21,18 +21,7 @@ No terminal execute o seguinte comando para realizar a instalação da aplicaç�
 
 ## Telas da aplicação
 
-<div class="box">
+<div display: inline-block;>
     <img width="200px" src="./sprint/home_view.jpg">
-    <span> Tela 1</span>
-</div>
-<div class="box">
     <img width="200px" src="./sprint/edit_view.jpg">
-    <span> Tela 2</span>
 </div>
-
-<style>
-div.box {
-	width: 150px;
-	display: inline-block;
-}
-</style>
