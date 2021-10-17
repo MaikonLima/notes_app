@@ -5,7 +5,11 @@ PT
 
 Desenvolvimento de um aplicativo simples para fins de estudos da lib sqflite.
 
-
+## Tecnologias utilizadas
+ - Flutter
+ - SQFLITE - DB
+ - flutter_staggered_grid_view - Grid
+ - Intl - DateTime
 ## Instalação
 
 Faça o clone do projeto:
