@@ -20,5 +20,5 @@ No terminal execute o seguinte comando para realizar a instalação da aplicaç�
  - flutter run <NAME_APP>
 
 ## Telas da aplicação
-<img width="50px" src="./sprint/home_view.jpg">
-<img width="50px" src="./sprint/edit_view.jpg">
+<img width="200px" src="./sprint/home_view.jpg">
+<img width="200px" src="./sprint/edit_view.jpg">
