@@ -1,4 +1,4 @@
-# Notes APP
+<h1 align="center">Notes APP</h1>
 ## Sobre
 
 PT
