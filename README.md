@@ -1,8 +1,6 @@
 <h1 align="center">Notes APP</h1>
 ## Sobre
 
-PT
-
 Desenvolvimento de um aplicativo simples para fins de estudos da lib sqflite.
 
 ## Tecnologias utilizadas
