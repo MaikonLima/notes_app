@@ -23,5 +23,6 @@ No terminal execute o seguinte comando para realizar a instalação da aplicaç�
 
 <div display: inline-block;>
     <img width="200px" src="./sprint/home_view.jpg">
+    &nbsp
     <img width="200px" src="./sprint/edit_view.jpg">
 </div>
