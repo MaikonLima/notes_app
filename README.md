@@ -1,4 +1,5 @@
 <h1 align="center">Notes APP</h1>
+
 ## Sobre
 
 Desenvolvimento de um aplicativo simples para fins de estudos da lib sqflite.
